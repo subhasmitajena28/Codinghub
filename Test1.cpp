@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
 	cout<<"My Name is Sophie"<<endl;
+	cout<<"My Full Name is Subhasmita";
 
 }
